@@ -1,20 +1,18 @@
 [![iChernous GitHub Banner](./background.jpg)](https://github.com/ichernous94)
 
-# Greetings!
+[![About SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=10000&color=7cc5d9&vCenter=true&width=435&lines=About+Me)](https://github.com/ichernous94)
 
-[![About SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=10000&color=88DDED&vCenter=true&width=435&lines=About+Me)](https://github.com/ichernous94)
+#### I'm a Fronted Developer based in Poland.   
+#### In my spare time, I create beautiful and productive applications.
+#### I develop the user interfaces. Web page development. Create ux element interactions
 
-### I'm a Fronted Developer based in Poland.   
-### In my spare time, I create beautiful and productive applications.
-### I develop the user interfaces. Web page development. Create ux element interactions
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=10000&color=88DDED&vCenter=true&width=435&lines=Connect+with+me%3A)](https://github.com/ichernous94)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=10000&color=7cc5d9&vCenter=true&width=435&lines=Connect+with+me%3A)](https://github.com/ichernous94)
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-5340ff?style=for-the-badge&logo=Google-chrome&logoColor=white)](https://github.com/ichernous94)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/icharnaus)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ichernous/)
 
-[![Projects SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=10000&color=88DDED&vCenter=true&width=435&lines=Projects%3A)](https://github.com/ichernous94)
+[![Projects SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=10000&color=7cc5d9&vCenter=true&width=435&lines=Projects%3A)](https://github.com/ichernous94)
 
 - [Online Store](https://rolling-scopes-school.github.io/ichernous94-JSFE2022Q1/online-store/online-store/)
 - [Audio Player](https://js30-audio-player.netlify.app/)
@@ -22,11 +20,11 @@
 - [Virtual keyboard](https://ichernous94.github.io/virtual-keyboard/)
 - [Portfolio](https://js30-portfolio.netlify.app/)
 
-[![Statistic SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=10000&color=88DDED&vCenter=true&width=435&lines=GitHub+Analytics%3A)](https://github.com/ichernous94)
+[![Statistic SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=10000&color=7cc5d9&vCenter=true&width=435&lines=GitHub+Analytics%3A)](https://github.com/ichernous94)
 
 [![Statistic](https://github-readme-stats.vercel.app/api/top-langs/?username=ichernous94&layout=compact)](https://github.com/ichernous94)
 
-[![Skills SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=10000&color=88DDED&vCenter=true&width=435&lines=Languages+and+Tools%3A)](https://github.com/ichernous94)
+[![Skills SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=10000&color=7cc5d9&vCenter=true&width=435&lines=Languages+and+Tools%3A)](https://github.com/ichernous94)
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
