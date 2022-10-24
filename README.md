@@ -8,17 +8,19 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=10000&color=7cc5d9&vCenter=true&width=435&lines=Connect+with+me%3A)](https://github.com/ichernous94)
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-5340ff?style=for-the-badge&logo=Google-chrome&logoColor=white)](https://github.com/ichernous94)
+[![Portfolio](https://img.shields.io/badge/Portfolio-5340ff?style=for-the-badge&logo=Google-chrome&logoColor=white)](https://ichernous-portfolio-web.netlify.app/)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/icharnaus)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ichernous/)
 
 [![Projects SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=10000&color=7cc5d9&vCenter=true&width=435&lines=Projects%3A)](https://github.com/ichernous94)
 
-- [Online Store](https://rolling-scopes-school.github.io/ichernous94-JSFE2022Q1/online-store/online-store/)
+- [React Pizza Store](https://react-pizza-store.netlify.app/)
+- [React Chess](https://react-ts-chess.netlify.app/)
 - [Audio Player](https://js30-audio-player.netlify.app/)
+- [Sneakers Store](https://react-sneakers-store.netlify.app)
 - [Shelter](https://rolling-scopes-school.github.io/ichernous94-JSFE2022Q1/shelter/pages/main/)
 - [Virtual keyboard](https://ichernous94.github.io/virtual-keyboard/)
-- [Portfolio](https://js30-portfolio.netlify.app/)
+- [Tic Tac Toe](https://js30-tic-tac-toe.netlify.app/)
 
 [![Statistic SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=10000&color=7cc5d9&vCenter=true&width=435&lines=GitHub+Analytics%3A)](https://github.com/ichernous94)
 
