@@ -2,9 +2,9 @@
 
 [![About SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=10000&color=7cc5d9&vCenter=true&width=435&lines=About+Me)](https://github.com/ichernous94)
 
-#### I'm a Fronted Developer based in Poland.   
-#### In my spare time, I create beautiful and productive applications.
-#### I develop the user interfaces. Web page development. Create ux element interactions
+#### I'm a Front-end Developer based in Poland.   
+#### My main experience is absolutely self-learning.
+#### I create stylish and productive applications, develop user interfaces, web pages with the interactions of UI/UX elements.
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=10000&color=7cc5d9&vCenter=true&width=435&lines=Connect+with+me%3A)](https://github.com/ichernous94)
 
@@ -17,10 +17,12 @@
 - [React Pizza Store](https://react-pizza-store.netlify.app/)
 - [React Chess](https://react-ts-chess.netlify.app/)
 - [Audio Player](https://js30-audio-player.netlify.app/)
+- [Fashion E-Commerce Website](https://e-commerce-fashion-website.netlify.app/)
 - [Sneakers Store](https://react-sneakers-store.netlify.app)
-- [Shelter](https://rolling-scopes-school.github.io/ichernous94-JSFE2022Q1/shelter/pages/main/)
-- [Virtual keyboard](https://ichernous94.github.io/virtual-keyboard/)
+- [Shelter Pets Website](https://rolling-scopes-school.github.io/ichernous94-JSFE2022Q1/shelter/pages/main/)
+- [Virtual Keyboard](https://ichernous94.github.io/virtual-keyboard/)
 - [Tic Tac Toe](https://js30-tic-tac-toe.netlify.app/)
+- [3D Scroll Website](https://3d-scroll-website.netlify.app/)
 
 [![Statistic SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=10000&color=7cc5d9&vCenter=true&width=435&lines=GitHub+Analytics%3A)](https://github.com/ichernous94)
 
