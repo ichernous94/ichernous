@@ -14,6 +14,7 @@
 
 [![Projects SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=10000&color=7cc5d9&vCenter=true&width=435&lines=Projects%3A)](https://github.com/ichernous94)
 
+- [rekolekcje.store](https://rekolekcje.store/) - eCommerce Website
 - [React Pizza Store](https://react-pizza-store.netlify.app/)
 - [React Chess](https://react-ts-chess.netlify.app/)
 - [Audio Player](https://js30-audio-player.netlify.app/)
